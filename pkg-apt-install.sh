@@ -7,7 +7,7 @@ sudo apt install -y vim \
     stow \
     python3-pynvim \
     neovim-which-key \
-    neovim-lua-line \
+    neovim-lualine \
     neovim \
     exuberant-ctags \
     git \
